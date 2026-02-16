@@ -109,9 +109,9 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://i.imgur.com/3N4EgCu.png",
-        description: "",
-        link: "",
+        img: "https://i.imgur.com/V4ei8sy.png",
+        description: "Completed the CC squared to demonstrate that my Cybersecurity Fundimentals have still retained",
+        link: "https://www.credly.com/badges/b797de19-cf21-421b-b4a0-d71ef9c1170f/public_url",
     },
     {
         img: "https://i.imgur.com/3N4EgCu.png",
