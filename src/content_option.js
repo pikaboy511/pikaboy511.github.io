@@ -73,12 +73,12 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://media.licdn.com/dms/image/v2/D562DAQFVk9nS-s9ecg/profile-treasury-image-shrink_800_800/B56Zt2GPj_JcAc-/0/1767212907346?e=1768377600&v=beta&t=qJdTJdjf95KrmI8PiiKJDHcWRNtNE61SHhwKvBjH8iM",
+        img: "https://i.imgur.com/YBRPRGi.png",
         description: "Developed an IoT home network topology and Python temperature script, applying networking and security fundamentals.",
         link: "https://www.linkedin.com/in/douglas-r-mccluer/details/projects/1767213085882/single-media-viewer/?profileId=ACoAAC86IvsB5U3dKuYmp6LR6FtNbqhCDIb0X4s",
     },
     {
-        img: "https://media.licdn.com/dms/image/v2/D562DAQFBkEq6ZqcJ6w/profile-treasury-image-shrink_800_800/B56ZuV5Y6JJoAg-/0/1767746408492?e=1768377600&v=beta&t=YJ0PcocG_nv-5oGq8_jif9J_IPM1w-rxAGDDsEbCvIA",
+        img: "https://i.imgur.com/e8ECm1G.png",
         description: "utilizing CTF Labs to work on and learn web penetration techniques to start using towards bug bounties.",
         link: "https://www.linkedin.com/in/douglas-r-mccluer/details/projects/1767746427970/single-media-viewer/?profileId=ACoAAC86IvsB5U3dKuYmp6LR6FtNbqhCDIb0X4s",
     },
