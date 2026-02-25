@@ -114,9 +114,9 @@ const dataportfolio = [{
         link: "https://www.credly.com/badges/b797de19-cf21-421b-b4a0-d71ef9c1170f/public_url",
     },
     {
-        img: "https://i.imgur.com/3N4EgCu.png",
-        description: "",
-        link: "",
+        img: "https://i.imgur.com/2En8o2s.png",
+        description: "Completed the Fortinet Operator Course and earned my Associate in Cybersecurity under Fortinet",
+        link: "https://www.credly.com/badges/f38457bd-573e-457a-87a0-0e7d57802d6b/public_url",
     },
     {
         img: "https://i.imgur.com/3N4EgCu.png",
